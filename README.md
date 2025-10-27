@@ -1,7 +1,5 @@
 # 04.Firewall_Configuration_tool
 
-# Task 4: Firewall Configuration
-
 This repository contains my submission for Task 4 of the Cyber Security Internship.
 
 ## Objective
